@@ -10,7 +10,7 @@ function App() {
   // }
 
   return (
-    <div className="App text-start text-light bg-dark">
+    <div className="App text-start text-light bg-dark h-100">
       <section className="row gx-0">
         <div className="col-6">
       <Register />
